@@ -1,0 +1,15 @@
+{
+  "candiate": [
+    {
+      "id": 1,
+      "code": "C23072021105512",
+      "name": "Nguyen Van A",
+      "dateOfBirth": "07/05/1999",
+      "sex": "male",
+      "address": "a b c",
+      "numberPhone": "0835141412",
+      "email": "nguyentrinh@gmaill.com",
+      "nationality": "Viet Nam"
+    }
+  ]
+}
